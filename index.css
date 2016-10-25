@@ -15,3 +15,12 @@ ul {
   padding: 0;
   list-style: none;
 }
+
+h1 {
+  margin: 0;
+  background-color: Turquoise;
+  color: Red;
+  padding: 0.25em;
+  border-radius: 0.1em;
+
+}
